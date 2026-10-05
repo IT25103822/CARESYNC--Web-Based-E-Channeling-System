@@ -1,0 +1,25 @@
+# Target & Build
+**/target/
+**/build/
+**/dist/
+**/node_modules/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.project
+.classpath
+
+# Logs & temp
+*.log
+*.tmp
+*.zip
+!backend/lib/*.dll
+
+# OS files
+.DS_Store
+Thumbs.db
