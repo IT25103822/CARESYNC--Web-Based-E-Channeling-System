@@ -7,7 +7,6 @@ import java.time.LocalDate;
 
 /**
  * OOP Demonstration: Inheritance (Patient IS A User)
- * Member 1: Jayasundara U.R (IT25103820) - Patient Management
  */
 @Entity
 @Table(name = "Patients")
