@@ -13,9 +13,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * Member 1: Jayasundara U.R (IT25103820) - Patient Management REST Controller
- */
+
 @RestController
 @RequestMapping("/api/patients")
 @CrossOrigin(origins = "*")
